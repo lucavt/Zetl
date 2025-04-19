@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>App Support</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+      line-height: 1.6;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    a {
+      color: #007aff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Support für meine App</h1>
+  <p>Wenn du Fragen, Probleme oder Feedback hast, kannst du dich gerne per E-Mail melden:</p>
+  <p>
+    📧 <a href="mailto:deinname@example.com">deinname@example.com</a>
+  </p>
+  <p>Wir antworten in der Regel innerhalb von 1–2 Werktagen.</p>
+</body>
+</html>
